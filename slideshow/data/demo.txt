@@ -1,0 +1,8 @@
+trialnr	image	imgtime
+0	advertisment.jpg	10001.464599609375
+1	bikinishop.jpg	10000.79931640625
+2	EyeLink_II.jpg	10000.78125
+3	lecture.jpg	10000.53515625
+4	osdoc.jpg	10001.19140625
+5	sunset.jpg	10000.449462890625
+6	vanunnik.jpg	10001.171875
